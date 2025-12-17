@@ -1,0 +1,68 @@
+============================================================
+TOKEN REPORT GENERATED AT 2025-12-13 01:23:39
+============================================================
+
+[FILES]
+Original: C:\Users\muthu\COIL\original.json (3312 bytes)
+Encoded:  C:\Users\muthu\COIL\encoded.json (780 bytes)
+
+[TOKEN COUNTS – FULL FILE]
+gpt-4o               | original=   982 | encoded=   427 | saved=56.52%
+gpt-4o-mini          | original=   982 | encoded=   427 | saved=56.52%
+gpt-4.1              | original=   982 | encoded=   427 | saved=56.52%
+gpt-4.1-mini         | original=   982 | encoded=   427 | saved=56.52%
+o1                   | original=   982 | encoded=   427 | saved=56.52%
+o1-mini              | original=   982 | encoded=   427 | saved=56.52%
+gpt-3.5-turbo        | original=  1000 | encoded=   435 | saved=56.50%
+claude-3.7           | original=  1000 | encoded=   435 | saved=56.50%
+claude-3.5           | original=  1000 | encoded=   435 | saved=56.50%
+gemini-1.5-pro       | original=  1000 | encoded=   435 | saved=56.50%
+gemini-1.5-flash     | original=  1000 | encoded=   435 | saved=56.50%
+llama3               | original=  1000 | encoded=   435 | saved=56.50%
+llama3.1             | original=  1000 | encoded=   435 | saved=56.50%
+mistral-large        | original=  1000 | encoded=   435 | saved=56.50%
+mistral-small        | original=  1000 | encoded=   435 | saved=56.50%
+qwen2.5              | original=  1000 | encoded=   435 | saved=56.50%
+qwen1.5              | original=  1000 | encoded=   435 | saved=56.50%
+deepseek-v3          | original=  1000 | encoded=   435 | saved=56.50%
+deepseek-chat        | original=  1000 | encoded=   435 | saved=56.50%
+
+[TOKEN COUNTS – DATA FIELD ONLY]
+gpt-4o               | original=   563 | encoded=   395 | saved=29.84%
+gpt-4o-mini          | original=   563 | encoded=   395 | saved=29.84%
+gpt-4.1              | original=   563 | encoded=   395 | saved=29.84%
+gpt-4.1-mini         | original=   563 | encoded=   395 | saved=29.84%
+o1                   | original=   563 | encoded=   395 | saved=29.84%
+o1-mini              | original=   563 | encoded=   395 | saved=29.84%
+gpt-3.5-turbo        | original=   579 | encoded=   402 | saved=30.57%
+claude-3.7           | original=   579 | encoded=   402 | saved=30.57%
+claude-3.5           | original=   579 | encoded=   402 | saved=30.57%
+gemini-1.5-pro       | original=   579 | encoded=   402 | saved=30.57%
+gemini-1.5-flash     | original=   579 | encoded=   402 | saved=30.57%
+llama3               | original=   579 | encoded=   402 | saved=30.57%
+llama3.1             | original=   579 | encoded=   402 | saved=30.57%
+mistral-large        | original=   579 | encoded=   402 | saved=30.57%
+mistral-small        | original=   579 | encoded=   402 | saved=30.57%
+qwen2.5              | original=   579 | encoded=   402 | saved=30.57%
+qwen1.5              | original=   579 | encoded=   402 | saved=30.57%
+deepseek-v3          | original=   579 | encoded=   402 | saved=30.57%
+deepseek-chat        | original=   579 | encoded=   402 | saved=30.57%
+
+[END OF REPORT]
+
+
+============================================================
+TOKEN REPORT GENERATED AT 2025-12-13 01:26:32
+============================================================
+
+
+============================================================
+TOKEN REPORT GENERATED AT 2025-12-17 00:02:17
+============================================================
+
+
+=== TOKEN REPORT GENERATED AT 2025-12-17 00:08:12 ===
+
+
+=== TOKEN REPORT GENERATED AT 2025-12-17 00:12:42 ===
+

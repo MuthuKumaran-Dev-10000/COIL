@@ -1,0 +1,158 @@
+{
+  "device": "sensor-xyz",
+  "area": "Tamilnadu",
+  "data": {
+    "sensordata": [
+      {
+        "temperature": "49",
+        "Time": "3-8-2025",
+        "place": "Madurai"
+      },
+      {
+        "temperature": "35",
+        "Time": "5-9-2025",
+        "place": "Chennai"
+      },
+      {
+        "temperature": "35",
+        "Time": "2-3-2025",
+        "place": "Madurai"
+      },
+      {
+        "temperature": "42",
+        "Time": "11-1-2024",
+        "place": "Coimbatore"
+      },
+      {
+        "temperature": "39",
+        "Time": "14-2-2024",
+        "place": "Trichy"
+      },
+      {
+        "temperature": "51",
+        "Time": "9-3-2024",
+        "place": "Salem"
+      },
+      {
+        "temperature": "47",
+        "Time": "28-4-2025",
+        "place": "Erode"
+      },
+      {
+        "temperature": "33",
+        "Time": "15-5-2025",
+        "place": "Tirunelveli"
+      },
+      {
+        "temperature": "55",
+        "Time": "7-6-2023",
+        "place": "Madurai"
+      },
+      {
+        "temperature": "29",
+        "Time": "21-7-2023",
+        "place": "Chennai"
+      },
+      {
+        "temperature": "38",
+        "Time": "10-8-2023",
+        "place": "Coimbatore"
+      },
+      {
+        "temperature": "41",
+        "Time": "3-9-2023",
+        "place": "Trichy"
+      },
+      {
+        "temperature": "36",
+        "Time": "19-10-2024",
+        "place": "Salem"
+      },
+      {
+        "temperature": "44",
+        "Time": "26-11-2026",
+        "place": "Erode"
+      },
+      {
+        "temperature": "32",
+        "Time": "5-12-2026",
+        "place": "Tirunelveli"
+      },
+      {
+        "temperature": "28",
+        "Time": "6-1-2024",
+        "place": "Madurai"
+      },
+      {
+        "temperature": "53",
+        "Time": "17-2-2025",
+        "place": "Chennai"
+      },
+      {
+        "temperature": "37",
+        "Time": "25-3-2025",
+        "place": "Coimbatore"
+      },
+      {
+        "temperature": "54",
+        "Time": "2-4-2025",
+        "place": "Trichy"
+      },
+      {
+        "temperature": "46",
+        "Time": "14-5-2023",
+        "place": "Salem"
+      },
+      {
+        "temperature": "33",
+        "Time": "18-6-2023",
+        "place": "Erode"
+      },
+      {
+        "temperature": "45",
+        "Time": "9-7-2023",
+        "place": "Tirunelveli"
+      },
+      {
+        "temperature": "31",
+        "Time": "27-8-2024",
+        "place": "Madurai"
+      },
+      {
+        "temperature": "52",
+        "Time": "15-9-2024",
+        "place": "Chennai"
+      },
+      {
+        "temperature": "40",
+        "Time": "30-10-2025",
+        "place": "Coimbatore"
+      },
+      {
+        "temperature": "34",
+        "Time": "4-11-2025",
+        "place": "Trichy"
+      },
+      {
+        "temperature": "48",
+        "Time": "12-12-2025",
+        "place": "Salem"
+      },
+      {
+        "temperature": "50",
+        "Time": "19-1-2026",
+        "place": "Erode"
+      },
+      {
+        "temperature": "43",
+        "Time": "23-2-2026",
+        "place": "Tirunelveli"
+      },
+      {
+        "temperature": "29",
+        "Time": "3-3-2023",
+        "place": "Madurai"
+      }
+    ]
+  }
+}

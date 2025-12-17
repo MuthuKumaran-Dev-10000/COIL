@@ -1,0 +1,22 @@
+{
+  "token_stats": {
+    "original_tokens": 1670,
+    "encoded_tokens": 485,
+    "savings_pct": 70.96
+  },
+  "model_reports": {
+    "original": {
+      "understanding": 85,
+      "confidence": 90,
+      "ease": 70,
+      "ambiguous": "no",
+      "explanation": "The data seems to be accurate and provides a good understanding of temperature readings across different locations and timeframes.",
+      "latency_sec": 41.101
+    },
+    "encoded": {
+      "error": "Could not parse JSON response",
+      "raw": "[ERROR calling Ollama] Command '['ollama', 'run', 'gemma:2b']' timed out after 60 seconds",
+      "latency_sec": 60.027
+    }
+  }
+}
